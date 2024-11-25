@@ -7,7 +7,6 @@
 			"files": [
 				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY.uasset",
 				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/TopDown/Blueprints/Player/PlayerShip.uasset",
-				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/TopDown/Blueprints/Player/TopDown.uasset",
 				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/Assets/TestUFO/uploads_files_2587313_UFO_Skeleton.uasset",
 				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/Assets/TestUFO/uploads_files_2587313_UFO_PhysicsAsset.uasset",
 				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/Assets/TestUFO/uploads_files_2587313_UFO_Anim.uasset",
@@ -17,6 +16,15 @@
 				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/Assets/TestUFO/Material_002.uasset",
 				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
 				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/TopDown/Blueprints/Player/PlayerShip_Character.uasset",
+				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/TopDown/Blueprints/Player/UFO_Test.uasset",
+				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/TopDown/Input/IA_W.uasset",
+				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/TopDown/Input/IA_A.uasset",
+				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/TopDown/Input/IMC_UFO.uasset",
+				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/TopDown/Input/Actions/IA_A.uasset",
+				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/TopDown/Input/Actions/IA_D.uasset",
+				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/TopDown/Input/Actions/IA_S.uasset",
+				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/TopDown/Input/Actions/IA_W.uasset",
+				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/TopDown/Blueprints/Player/TopDown.uasset",
 				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/TopDown/Blueprints/Player/NewBlueprint.uasset",
 				"C:/Users/mckay/Documents/Unreal Projects/DrunkAliens/Content/TopDown/Blueprints/Player/test.uasset"
 			]
